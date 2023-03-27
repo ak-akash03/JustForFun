@@ -5,9 +5,9 @@ html {
     padding: 0;
     font-family: 'Helvetica', sans-serif;
     background: rgb(26, 188, 156);
-    background: -moz-linear-gradient(-45deg, rgba(26, 188, 156, 1) 0%, rgba(142, 68, 173, 1) 100%);
-    background: -webkit-linear-gradient(-45deg, rgba(26, 188, 156, 1) 0%, rgba(142, 68, 173, 1) 100%);
-    background: linear-gradient(135deg, rgba(26, 188, 156, 1) 0%, rgba(142, 68, 173, 1) 100%);
+    background: -moz-linear-gradient(-45deg, rgb(0, 255, 204) 0%, rgba(142, 68, 173, 1) 100%);
+    background: -webkit-linear-gradient(-45deg, rgb(174, 109, 235) 0%, rgba(142, 68, 173, 1) 100%);
+    background: linear-gradient(135deg, rgb(88, 213, 255) 0%, rgba(142, 68, 173, 1) 100%);
 }
 
 h1 {
@@ -113,3 +113,14 @@ img {
 }
 
 @media (max-width:590px) {}
+
+
+/* .getname {
+    color: black;
+} */
+
+.pak {
+    color: white;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+}
