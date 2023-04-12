@@ -1,3 +1,3 @@
 # JustForFun
 
-This website created for fun
+This website
