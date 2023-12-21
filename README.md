@@ -1,6 +1,7 @@
 # JustForFun
 
-This website
+SOCIAL MEDIA LINK HERE .....
+FOLLOW ME ....
 
 
 
